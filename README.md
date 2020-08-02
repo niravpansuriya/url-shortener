@@ -15,21 +15,21 @@
 - Clone the project
 - Run given commands to the project directory
 
-<p align="center">
-  <img src="https://github.com/niravpansuriya/url-shortener/blob/master/npm_install.JPG" title="npm_install_command">
-</p>
 - This command will install all require packages
 ```
 npm install
 ```
-
 <p align="center">
-  <img src="https://github.com/niravpansuriya/url-shortener/blob/master/node_app.JPG" title="npm_install_command">
+  <img src="https://github.com/niravpansuriya/url-shortener/blob/master/npm_install.JPG" title="npm_install_command">
 </p>
+
 - This command will start server in localhost and deploy the API on it (basically will run app.js file).
 ```
 node app
 ```
+<p align="center">
+  <img src="https://github.com/niravpansuriya/url-shortener/blob/master/node_app.JPG" title="npm_install_command">
+</p>
 
 ### How to use
 
