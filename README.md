@@ -16,18 +16,18 @@
 - Run given commands to the project directory
 
 - This command installs all require packages
-'''
+```
 npm install
-'''
+```
 <p align="center">
-  <img src="https://github.com/niravpansuriya/smart-video--recording-with--gesture-detection/blob/master/3-fingures.JPG" title="Three Fingures Gesture">
+  <img src="https://github.com/niravpansuriya/url-shortener/blob/master/npm_install.JPG" title="npm_install_command">
 </p>
 
 
-- This command starts server in localhost and deploy the API on it.
-'''
+- This command starts server in localhost and deploy the API on it (basically will run app.js file).
+```
 node app
-'''
+```
 
 ### How to use
 
