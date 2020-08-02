@@ -1,7 +1,8 @@
 # url-shortener
 
 - This API converts a long website links to short (like goo.gl,bit.ly).
- 
+
+<img src="https://github.com/niravpansuriya/url-shortener/blob/master/Gif.gif" width="40" height="40" />
 
 ### Prerequisites
 
@@ -46,19 +47,6 @@ node app
   <img src="https://github.com/niravpansuriya/url-shortener/blob/master/get.JPG" title="npm_install_command">
 </p>
  
-
-
-### How to use?
-
-- Send a post request to **/api/shorten** with **fullURL** as key and link as a value
-- Send a get request to **/** end point with **shortenURL**
-
-
-### Demo
-
-- Watch a [quick demo](https://drive.google.com/file/d/1X4Jkzv1MU37NBFuVUGwuuBEZYH0ey0Q4/view?t=08m29s)
-- Watch a [full demo](https://drive.google.com/file/d/1X4Jkzv1MU37NBFuVUGwuuBEZYH0ey0Q4/view)
-
 
 ## Authors
 
