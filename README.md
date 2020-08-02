@@ -2,7 +2,7 @@
 
 - This API converts a long website links to short (like goo.gl,bit.ly).
 
-<img src="https://github.com/niravpansuriya/url-shortener/blob/master/Gif.gif" width="40" height="40" />
+<img src="https://github.com/niravpansuriya/url-shortener/blob/master/Gif.gif"/>
 
 ### Prerequisites
 
