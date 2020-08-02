@@ -35,7 +35,7 @@ node app
 
 ### How to use
 
-- Now API is running on localhost. One can call the API from anywhere, I am using CURL.
+- Now API is running on localhost. One can call the API from anywhere (like in own program or Postman), I am using cURL.
 - User has to call the api with POST method at end-point **api/shorten** (call with JSON object, key name is **fullURL** and value is **Website's Long Link**)
 <p align="center">
   <img src="https://github.com/niravpansuriya/url-shortener/blob/master/post.JPG" title="npm_install_command">
